@@ -2,4 +2,4 @@
 Facebook login page with HTML and CSS
 
 Screenshot:
-<p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/facebook_login_html(1).png" style="height:659px; width:816px" /></p>
+![facebook_login html](https://github.com/ufukcagris/facebook_login_page/assets/51057559/6587def4-9bf7-466d-8dfa-aa7b5e60ca76)
